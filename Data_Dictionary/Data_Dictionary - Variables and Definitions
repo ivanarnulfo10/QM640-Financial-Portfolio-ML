@@ -1,0 +1,29 @@
+Data Dictionary:
+
+SPY	- SPDR S&P 500 ETF Trust - An exchange-traded fund that tracks the 500 largest U.S. publicly traded companies.
+QQQ -	Invesco QQQ Trust	- An exchange-traded fund that tracks the 100 largest non-financial companies on the NASDAQ (heavy technology focus).
+VBIAX -	Vanguard Balanced Index Fund	- A traditional mutual fund that holds a standard 60% stock and 40% bond mix.
+TLT	- iShares 20+ Year Treasury Bond ETF	- An exchange-traded fund that tracks long-term U.S. government Treasury bonds.
+XLK	- Technology Select Sector SPDR Fund	- An index fund tracking technology companies within the S&P 500 (e.g., Apple, Microsoft, NVIDIA).
+XLF	- Financial Select Sector SPDR Fund	- An index fund tracking financial institutions, banks, and insurance firms within the S&P 500.
+XLI	- Industrial Select Sector SPDR Fund	- An index fund tracking manufacturing, aerospace, defense, and machinery companies within the S&P 500.
+XLV	- Health Care Select Sector SPDR Fund	- An index fund tracking medical device, healthcare provider, and pharmaceutical companies within the S&P 500.
+GC=F	- Gold Futures	- Benchmark market contracts for purchasing physical gold as a commodity.
+SI=F	- Silver Futures	- Benchmark market contracts for purchasing physical silver as an industrial and precious metal commodity.
+BTC-USD	- Bitcoin / USD	- The spot exchange rate of Bitcoin priced in U.S. dollars.
+To be Added - Monthly Inflation (US)
+To be Added - Monthly Unemployment (US)
+To be Added - Monthly Trade Balance (#1 business partner)
+To be Added - Monthly Trade Balance (#2 business partner)
+To be Added - Monthly Trade Balance (#3 business partner)
+To be Added - Monthly Trade Balance (#4 business partner)
+To be Added - Monthly Trade Balance (#5 business partner)
+To be Added - Monthly GDP (If available)
+To be Added - Monthly Unemployment (#1 business partner)
+To be Added - Monthly Unemployment (#2 business partner)
+To be Added - Monthly Unemployment (#3 business partner)
+To be Added - Monthly Unemployment (#4 business partner)
+To be Added - Monthly Unemployment (#5 business partner)
+To be Added - Oil Price (WTI)
+To be Added - Oil Price (Maya)
+To be Added - Consumer Price Index
